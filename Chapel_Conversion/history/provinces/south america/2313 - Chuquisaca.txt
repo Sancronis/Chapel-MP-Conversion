@@ -1,6 +1,6 @@
-owner=CUA
-controller=CUA
+owner=INC
+controller=INC
 add_core=CRA
-add_core=CUA
+add_core=INC
 trade_goods = wool
 life_rating = 30
