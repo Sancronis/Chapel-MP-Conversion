@@ -1,0 +1,8 @@
+owner=ROM
+controller=ROM
+add_core=SHM
+add_core=TUN
+add_core=ROM
+add_core=ARA
+trade_goods = grain
+life_rating = 35

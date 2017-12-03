@@ -1,0 +1,58 @@
+1954 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=29383
+	}
+
+	soldiers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=374
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=1496
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=243
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=67
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=366
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=5431
+	}
+
+}

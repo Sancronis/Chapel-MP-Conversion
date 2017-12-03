@@ -1,0 +1,5 @@
+owner=DMS
+controller=DMS
+add_core=SHA
+trade_goods = grain
+life_rating = 35

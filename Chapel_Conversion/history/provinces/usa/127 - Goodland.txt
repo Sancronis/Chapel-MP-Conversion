@@ -1,0 +1,5 @@
+owner=DMS
+controller=DMS
+add_core=DMS
+trade_goods = fruit
+life_rating = 35

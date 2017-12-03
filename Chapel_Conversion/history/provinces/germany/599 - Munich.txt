@@ -1,0 +1,10 @@
+owner=ITA
+controller=ITA
+add_core=BAV
+add_core=ULM
+add_core=FRA
+add_core=ITA
+add_core=SGF
+add_core=GER
+trade_goods = coal
+life_rating = 40

@@ -1,0 +1,100 @@
+1097 = {
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size=1090
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size=2180
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size=354
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=54
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = sunni
+		size=60
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=458
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size=50297
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = catholic
+		size=390
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = catholic
+		size=1869
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = catholic
+		size=304
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = catholic
+		size=47
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = catholic
+		size=51
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = catholic
+		size=393
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = catholic
+		size=16427
+	}
+
+}

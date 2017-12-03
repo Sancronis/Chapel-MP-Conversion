@@ -1,0 +1,382 @@
+2066 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=268
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = sunni
+		size=102
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = sunni
+		size=146
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = sunni
+		size=24
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = sunni
+		size=6
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = sunni
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = sunni
+		size=31
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = sunni
+		size=3128
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=4
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=1
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=3
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=1
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=69
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size=5
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size=22
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size=4
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=5
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size=445
+	}
+
+	soldiers=
+	{
+		culture = makua
+		religion = sunni
+		size=14
+	}
+
+	artisans=
+	{
+		culture = makua
+		religion = sunni
+		size=21
+	}
+
+	clergymen=
+	{
+		culture = makua
+		religion = sunni
+		size=3
+	}
+
+	bureaucrats=
+	{
+		culture = makua
+		religion = sunni
+		size=1
+	}
+
+	officers=
+	{
+		culture = makua
+		religion = sunni
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = makua
+		religion = sunni
+		size=4
+	}
+
+	farmers=
+	{
+		culture = makua
+		religion = sunni
+		size=441
+	}
+
+}
+2067 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=469
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = sunni
+		size=102
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = sunni
+		size=146
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = sunni
+		size=24
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = sunni
+		size=6
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = sunni
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = sunni
+		size=31
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = sunni
+		size=2971
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=7
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=1
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=3
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=1
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=66
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size=5
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size=22
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size=4
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=5
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size=423
+	}
+
+	soldiers=
+	{
+		culture = makua
+		religion = sunni
+		size=14
+	}
+
+	artisans=
+	{
+		culture = makua
+		religion = sunni
+		size=21
+	}
+
+	clergymen=
+	{
+		culture = makua
+		religion = sunni
+		size=3
+	}
+
+	bureaucrats=
+	{
+		culture = makua
+		religion = sunni
+		size=1
+	}
+
+	officers=
+	{
+		culture = makua
+		religion = sunni
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = makua
+		religion = sunni
+		size=4
+	}
+
+	farmers=
+	{
+		culture = makua
+		religion = sunni
+		size=419
+	}
+
+}

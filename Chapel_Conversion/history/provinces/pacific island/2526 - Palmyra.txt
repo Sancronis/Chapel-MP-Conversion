@@ -1,0 +1,7 @@
+owner=MLC
+controller=MLC
+add_core=SPA
+add_core=MLC
+trade_goods = fish
+life_rating = 15
+colonial=2

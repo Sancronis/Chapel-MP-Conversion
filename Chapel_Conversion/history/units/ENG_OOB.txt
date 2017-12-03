@@ -1,0 +1,1424 @@
+#Sphere of Influence
+
+	ABB=
+	{
+		value=40
+		level=2
+	}
+	AFG=
+	{
+		value=0
+		level=2
+	}
+	AJU=
+	{
+		value=41
+		level=2
+	}
+	AKH=
+	{
+		value=0
+		level=2
+	}
+	ALD=
+	{
+		value=-132
+		level=2
+	}
+	BEL=
+	{
+		value=-26
+		level=5
+	}
+	BNG=
+	{
+		value=10
+		level=2
+	}
+	BUK=
+	{
+		value=82
+		level=2
+	}
+	BYZ=
+	{
+		value=19
+		level=3
+	}
+	CUA=
+	{
+		value=82
+		level=2
+	}
+	DEN=
+	{
+		value=-26
+		level=2
+	}
+	DMS=
+	{
+		value=0
+		level=3
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	FRM=
+	{
+		value=79
+		level=2
+	}
+	GEO=
+	{
+		value=97
+		level=2
+	}
+	HOB=
+	{
+		value=8
+		level=2
+	}
+	INC=
+	{
+		value=16
+		level=2
+	}
+	ITA=
+	{
+		value=18
+		level=2
+	}
+	KOR=
+	{
+		value=7
+		level=2
+	}
+	KUB=
+	{
+		value=42
+		level=2
+	}
+	MLC=
+	{
+		value=41
+		level=2
+	}
+	MLW=
+	{
+		value=-10
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MOR=
+	{
+		value=-36
+		level=2
+	}
+	MYR=
+	{
+		value=100
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=54
+		level=2
+	}
+	PLC=
+	{
+		value=91
+		level=2
+	}
+	PRU=
+	{
+		value=73
+		level=2
+	}
+	ROM=
+	{
+		value=97
+		level=2
+	}
+	RUS=
+	{
+		value=46
+		level=2
+	}
+	SHM=
+	{
+		value=-39
+		level=2
+	}
+	SIA=
+	{
+		value=76
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SWA=
+	{
+		value=-4
+		level=2
+	}
+	SWI=
+	{
+		value=-15
+		level=2
+	}
+	TIB=
+	{
+		value=0
+		level=2
+	}
+	TUN=
+	{
+		value=-22
+		level=2
+	}
+	URU=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=19
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=5
+	}
+	X03=
+	{
+		value=76
+		level=5
+	}
+	X04=
+	{
+		value=1
+		level=5
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=76
+		level=5
+	}
+	X07=
+	{
+		value=-15
+		level=2
+	}
+	X08=
+	{
+		value=85
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X10=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=-25
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="Army of Scotland"
+	location=2031
+	regiment = {
+		name="1st Kismayo Infantry"
+		type=infantry
+		home=1870
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1306
+	regiment = {
+		name="1st Ulundi Infantry"
+		type=infantry
+		home=2113
+	}
+	regiment = {
+		name="1st Jaffna Infantry"
+		type=infantry
+		home=1322
+	}
+	regiment = {
+		name="1st Trincomalee Infantry"
+		type=infantry
+		home=1324
+	}
+	regiment = {
+		name="1st Ulundi Artillery"
+		type=artillery
+		home=2113
+	}
+	regiment = {
+		name="1st Mangalore Artillery"
+		type=artillery
+		home=1316
+	}
+	regiment = {
+		name="1st Masvingo Infantry"
+		type=infantry
+		home=2073
+	}
+	regiment = {
+		name="1st Belgaum Cavalry"
+		type=cavalry
+		home=1302
+	}
+	regiment = {
+		name="1st Kimberley Artillery"
+		type=artillery
+		home=2094
+	}
+}
+
+army = {
+	name="Royal Army"
+	location=1304
+	regiment = {
+		name="1st Coimbatore Infantry"
+		type=infantry
+		home=1311
+	}
+	regiment = {
+		name="1st Kandy Infantry"
+		type=infantry
+		home=1323
+	}
+	regiment = {
+		name="1st Durban Artillery"
+		type=artillery
+		home=2111
+	}
+	regiment = {
+		name="2nd Trincomalee Infantry"
+		type=infantry
+		home=1324
+	}
+	regiment = {
+		name="1st De Aar Artillery"
+		type=artillery
+		home=2558
+	}
+}
+
+navy = {
+	name="Kilwa Squadren"
+	location=2782
+	ship = {
+		name="1st Umtata Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Durban Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Port Elizabeth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Port Elizabeth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Umtata Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Red Squadron"
+	location=2796
+	ship = {
+		name="1st Salisbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Isle of Man Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dundee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chelmsford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cardigan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cardigan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chelmsford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dundee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mandvi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sumba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Newcastle-upon-Tyne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cardiff Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Khalkis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gibraltar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sumba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Glasgow Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Carlisle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ulundi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Iguape Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Hull Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Chester Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Edinburgh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Ivory Coast"
+	location=2920
+	ship = {
+		name="1st Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chester Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cardiff Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cape Verde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bonny Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="White Squadron"
+	location=2711
+	ship = {
+		name="1st Ipswich Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Newcastle-upon-Tyne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Edinburgh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aberdeen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bruges Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hull Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bruges Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ipswich Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd British Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Goa"
+	location=2790
+	ship = {
+		name="1st Duqm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dubai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salalah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Trincomalee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Trincomalee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Trincomalee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Trincomalee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Muscat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dubai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Duqm Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Channel Squad"
+	location=2737
+	ship = {
+		name="1st Chelmsford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Waterford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aberdeen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Wexford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Brighton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chelmsford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Plymouth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zanzibar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ipswich Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stirling Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Plymouth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Seychelles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Limerick Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Walvis Bay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Newcastle-upon-Tyne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melilla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Aberdeen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cork Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Armagh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Glasgow Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cardiff Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chelmsford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dumfries Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Walvis Bay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Inverness Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Galway Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Glasgow Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st St Brieuc Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Montpellier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Amiens Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dunkirk Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Indus"
+	location=2789
+	ship = {
+		name="2nd Limerick Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Brighton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Wexford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dundee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dumfries Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chester Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Plymouth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hull Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Inverness Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Aberdeen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Limerick Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Inverness Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dublin Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2758
+	ship = {
+		name="1st Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ipswich Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dundee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Limerick Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Hull Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gaeta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Londonderry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Glasgow Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sligo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chelmsford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Ipswich Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Glasgow Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2793
+	ship = {
+		name="1st Zamboanga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trivandrum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Southampton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Amiens Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Punta Arenas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mandvi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Calicut Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Amiens Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mobile Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Djibuti Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zamboanga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Surabaya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stirling Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Assab Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stirling Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Makassar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st British Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Blue Squadron"
+	location=2759
+	ship = {
+		name="1st Hull Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Carlisle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Galway Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gabes Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Belfast Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Glasgow Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stirling Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ipswich Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sligo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chester Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brighton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chester Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Armagh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ipswich Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kavala Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Patras Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aquila Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lamu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Izmir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Stirling Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Latakia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aquila Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2930
+	ship = {
+		name="2nd Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Salisbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chelmsford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dumfries Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Glasgow Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Newcastle-upon-Tyne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Stirling Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dundee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Inverness Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Carlisle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sligo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Stirling Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Brighton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chester Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Limerick Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cork Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2777
+	ship = {
+		name="3rd Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stirling Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Glasgow Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Holyhead Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dumfries Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Aberdeen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Inverness Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Waterford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Wexford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Plymouth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Newcastle-upon-Tyne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Chelmsford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cardiff Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Aberdeen Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="North Sea Squadron"
+	location=2743
+	ship = {
+		name="1st Waterford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Waterford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cardiff Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Channel Squadron"
+	location=2731
+	ship = {
+		name="4th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Plymouth Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=276
+	ship = {
+		name="2nd Hull Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cork Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Chelmsford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Inverness Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Isle of Man Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Donegal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Inverness Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Hull Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Ipswich Man'o'war"
+		type=manowar
+	}
+}
+

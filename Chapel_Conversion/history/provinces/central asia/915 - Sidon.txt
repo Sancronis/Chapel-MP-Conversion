@@ -1,0 +1,11 @@
+owner=BYZ
+controller=BYZ
+add_core=SYR
+add_core=TUR
+add_core=BYZ
+add_core=IRQ
+add_core=BAB
+add_core=ARA
+trade_goods = fruit
+life_rating = 35
+naval_base = 1

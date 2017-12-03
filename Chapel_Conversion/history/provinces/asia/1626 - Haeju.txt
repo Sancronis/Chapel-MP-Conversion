@@ -1,0 +1,5 @@
+owner=DMS
+controller=DMS
+add_core=KOR
+trade_goods = iron
+life_rating = 35

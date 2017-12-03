@@ -1,0 +1,456 @@
+1972 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=662
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=1325
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=215
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=40
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=278
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=30559
+	}
+
+}
+1974 = {
+	soldiers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=208
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = sunni
+		size=832
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = sunni
+		size=135
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = sunni
+		size=35
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = sunni
+		size=175
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=19390
+	}
+
+}
+1975 = {
+	soldiers=
+	{
+		culture = luba
+		religion = sunni
+		size=137
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = sunni
+		size=204
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = sunni
+		size=33
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = sunni
+		size=9
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = sunni
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = sunni
+		size=43
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = sunni
+		size=4446
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = ibadi
+		size=12
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = ibadi
+		size=30
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = ibadi
+		size=5
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = ibadi
+		size=2
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = ibadi
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = ibadi
+		size=6
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = ibadi
+		size=382
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = shamanism
+		size=3
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = shamanism
+		size=12
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = shamanism
+		size=2
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = shamanism
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = shamanism
+		size=3
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = shamanism
+		size=281
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size=1
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size=12
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=2
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size=123
+	}
+
+}
+1976 = {
+	soldiers=
+	{
+		culture = luba
+		religion = sunni
+		size=137
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = sunni
+		size=204
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = sunni
+		size=33
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = sunni
+		size=9
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = sunni
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = sunni
+		size=43
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = sunni
+		size=4446
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = ibadi
+		size=12
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = ibadi
+		size=30
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = ibadi
+		size=5
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = ibadi
+		size=2
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = ibadi
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = ibadi
+		size=6
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = ibadi
+		size=382
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = shamanism
+		size=3
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = shamanism
+		size=12
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = shamanism
+		size=2
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = shamanism
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = shamanism
+		size=3
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = shamanism
+		size=281
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size=1
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size=12
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=2
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size=123
+	}
+
+}

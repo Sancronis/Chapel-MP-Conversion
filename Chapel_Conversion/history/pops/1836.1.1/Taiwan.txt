@@ -1,0 +1,200 @@
+1485 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size=1926
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size=3852
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size=626
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size=202
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size=106
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size=809
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size=88787
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = protestant
+		size=327
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = protestant
+		size=2580
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = protestant
+		size=419
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = protestant
+		size=135
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = protestant
+		size=71
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = protestant
+		size=542
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = protestant
+		size=12272
+	}
+
+}
+2562 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size=1926
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size=3852
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size=626
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size=202
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size=106
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size=809
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size=88787
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = protestant
+		size=327
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = protestant
+		size=2580
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = protestant
+		size=419
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = protestant
+		size=135
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = protestant
+		size=71
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = protestant
+		size=542
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = protestant
+		size=12272
+	}
+
+}

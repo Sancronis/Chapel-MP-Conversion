@@ -1,0 +1,6 @@
+owner=DMS
+controller=DMS
+add_core=DMS
+add_core=MEX
+trade_goods = grain
+life_rating = 35

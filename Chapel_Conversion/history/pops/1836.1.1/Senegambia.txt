@@ -1,0 +1,682 @@
+1783 = {
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=168
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=670
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=109
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=28
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=211
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=15558
+	}
+
+}
+1786 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=6480
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=437
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=1750
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=92
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=429
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=34239
+	}
+
+}
+1787 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=3046
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=168
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=670
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=109
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=28
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=211
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=12512
+	}
+
+}
+1788 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=3334
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=168
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=670
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=109
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=28
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=211
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=12224
+	}
+
+}
+2573 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=6516
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=168
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=670
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=109
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=28
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=211
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=9042
+	}
+
+}
+1784 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=6043
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=335
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=1341
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=218
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=57
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=422
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=25073
+	}
+
+}
+1785 = {
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=493
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=1973
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=321
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=84
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=483
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=45927
+	}
+
+}
+1789 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=7279
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = catholic
+		size=422
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = catholic
+		size=1689
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = catholic
+		size=274
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size=89
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = catholic
+		size=34
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size=355
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = catholic
+		size=32078
+	}
+
+}
+1790 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=5863
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = catholic
+		size=211
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = catholic
+		size=844
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = catholic
+		size=137
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size=44
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = catholic
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size=177
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = catholic
+		size=13817
+	}
+
+}
+1791 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=1398
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = catholic
+		size=98
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = catholic
+		size=391
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = catholic
+		size=64
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size=17
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = catholic
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size=96
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = catholic
+		size=7714
+	}
+
+}
+1792 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=5753
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=247
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=986
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=160
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=42
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=242
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=17209
+	}
+
+}
+1793 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=3793
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=247
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=986
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=160
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=42
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=242
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=19169
+	}
+
+}

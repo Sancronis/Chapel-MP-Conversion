@@ -1,0 +1,200 @@
+2125 = {
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size=5257
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size=10515
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size=1709
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=473
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = sunni
+		size=289
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size=2208
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size=242423
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = catholic
+		size=1827
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = catholic
+		size=8911
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = catholic
+		size=1448
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = catholic
+		size=401
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = catholic
+		size=245
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = catholic
+		size=1871
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = catholic
+		size=76646
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = malay
+		religion = sunni
+		size=2862
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = sunni
+		size=3013
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = sunni
+		size=490
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = sunni
+		size=75
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = sunni
+		size=113
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = sunni
+		size=633
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = sunni
+		size=68129
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = catholic
+		size=1223
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = catholic
+		size=2794
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = catholic
+		size=454
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = catholic
+		size=70
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = catholic
+		size=105
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = catholic
+		size=587
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = catholic
+		size=26964
+	}
+
+}

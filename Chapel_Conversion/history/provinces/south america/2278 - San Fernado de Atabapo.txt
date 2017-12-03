@@ -1,0 +1,6 @@
+owner=DMS
+controller=DMS
+add_core=DMS
+trade_goods = wool
+life_rating = 25
+colonial=2

@@ -1,0 +1,116 @@
+2214 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=82861
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=2817
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=12678
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=916
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=239
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=155
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=1775
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=39423
+	}
+
+}
+2216 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=19383
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=905
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=1809
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=294
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=77
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=50
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=380
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=22329
+	}
+
+}

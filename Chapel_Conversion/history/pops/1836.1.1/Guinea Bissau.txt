@@ -1,0 +1,116 @@
+1877 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=30676
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=1239
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=4954
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=805
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=260
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=99
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=1040
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=84782
+	}
+
+}
+1878 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=8337
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size=531
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size=2123
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size=345
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=111
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size=446
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size=41145
+	}
+
+}

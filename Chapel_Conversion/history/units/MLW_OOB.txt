@@ -1,0 +1,339 @@
+#Sphere of Influence
+
+	AJU=
+	{
+		value=0
+		level=2
+	}
+	AKH=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=86
+		level=3
+	}
+	BUK=
+	{
+		value=0
+		level=2
+	}
+	BYZ=
+	{
+		value=64
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DMS=
+	{
+		value=36
+		level=2
+	}
+	ENG=
+	{
+		value=-9
+		level=2
+	}
+	FRA=
+	{
+		value=20
+		level=2
+	}
+	FRM=
+	{
+		value=0
+		level=2
+	}
+	GEO=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=-25
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	ROM=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=82
+		level=3
+	}
+	SPA=
+	{
+		value=27
+		level=2
+	}
+	SWA=
+	{
+		value=0
+		level=2
+	}
+	SWI=
+	{
+		value=0
+		level=2
+	}
+	TIB=
+	{
+		value=-6
+		level=2
+	}
+	TUN=
+	{
+		value=-22
+		level=2
+	}
+	X02=
+	{
+		value=-33
+		level=2
+	}
+	X03=
+	{
+		value=-11
+		level=2
+	}
+	X04=
+	{
+		value=-95
+		level=2
+	}
+	X06=
+	{
+		value=-10
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=1272
+	regiment = {
+		name="1st Indore Infantry"
+		type=infantry
+		home=1271
+	}
+	regiment = {
+		name="1st Hoshangabad Infantry"
+		type=infantry
+		home=1276
+	}
+	regiment = {
+		name="1st Bikaner Infantry"
+		type=infantry
+		home=1267
+	}
+	regiment = {
+		name="2nd Bikaner Infantry"
+		type=infantry
+		home=1267
+	}
+	regiment = {
+		name="1st Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+	regiment = {
+		name="1st Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="1st Karachi Cavalry"
+		type=cavalry
+		home=1288
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1312
+	regiment = {
+		name="1st Udaipur Infantry"
+		type=infantry
+		home=1269
+	}
+	regiment = {
+		name="3rd Bikaner Infantry"
+		type=infantry
+		home=1267
+	}
+	regiment = {
+		name="2nd Udaipur Infantry"
+		type=infantry
+		home=1269
+	}
+	regiment = {
+		name="1st Bombay Infantry"
+		type=infantry
+		home=1297
+	}
+	regiment = {
+		name="1st Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="1st Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+	regiment = {
+		name="1st Jaipur Infantry"
+		type=infantry
+		home=1268
+	}
+	regiment = {
+		name="2nd Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2793
+	ship = {
+		name="1st Rajkot Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=1292
+	ship = {
+		name="1st Rajkot Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2791
+	ship = {
+		name="1st Malwani Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Malwani Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2791
+	ship = {
+		name="1st Surat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Surat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Karachi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Malwani Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Malwani Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mandvi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mandvi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Mandvi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Karachi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Karachi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+}
+

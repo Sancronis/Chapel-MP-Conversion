@@ -1,0 +1,357 @@
+2068 = {
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size=871
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size=1742
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size=283
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size=78
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size=366
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = sunni
+		size=40167
+	}
+
+}
+2069 = {
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size=984
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size=1969
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size=320
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size=49
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size=413
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = sunni
+		size=45435
+	}
+
+}
+2070 = {
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size=506
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size=2025
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size=329
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size=127
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size=41
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size=638
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = sunni
+		size=46966
+	}
+
+}
+2635 = {
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size=733
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size=1465
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size=238
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size=66
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size=40
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size=308
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = sunni
+		size=33786
+	}
+
+}
+2071 = {
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size=518
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size=1036
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size=168
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size=47
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size=217
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = sunni
+		size=23876
+	}
+
+}
+2072 = {
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size=916
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size=1832
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size=298
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size=82
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size=50
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size=770
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = sunni
+		size=41859
+	}
+
+}
+2073 = {
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size=1036
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size=168
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size=47
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size=217
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = sunni
+		size=23361
+	}
+
+}

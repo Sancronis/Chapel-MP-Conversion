@@ -1,0 +1,8 @@
+union=
+{
+	first="PLC"
+	second="PRU"
+	start_date="1724.9.9"
+	end_date="1936.1.1"
+}
+

@@ -1,0 +1,7 @@
+owner=ENG
+controller=ENG
+add_core=YEM
+add_core=ENG
+add_core=ARA
+trade_goods = fish
+life_rating = 35

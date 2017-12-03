@@ -1,0 +1,223 @@
+1914 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=1142
+	}
+
+	soldiers=
+	{
+		culture = fon
+		religion = catholic
+		size=88
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = catholic
+		size=353
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = catholic
+		size=57
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = catholic
+		size=16
+	}
+
+	officers=
+	{
+		culture = fon
+		religion = catholic
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = catholic
+		size=86
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = catholic
+		size=7064
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=476
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=37
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=323
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=53
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=15
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=79
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=2690
+	}
+
+}
+1917 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=1371
+	}
+
+	soldiers=
+	{
+		culture = fon
+		religion = catholic
+		size=417
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = catholic
+		size=878
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = catholic
+		size=143
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = catholic
+		size=37
+	}
+
+	officers=
+	{
+		culture = fon
+		religion = catholic
+		size=26
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = catholic
+		size=184
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = catholic
+		size=18883
+	}
+
+}
+1918 = {
+	soldiers=
+	{
+		culture = mossi
+		religion = catholic
+		size=350
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = catholic
+		size=736
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = catholic
+		size=120
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = catholic
+		size=31
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = catholic
+		size=22
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = catholic
+		size=155
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = catholic
+		size=16985
+	}
+
+}

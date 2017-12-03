@@ -1,0 +1,107 @@
+2222 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=154060
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=18279
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=18269
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=3288
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=776
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=731
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=3836
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=127179
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=2460
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size=292
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size=5421
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size=976
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size=230
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size=217
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size=1138
+	}
+
+}

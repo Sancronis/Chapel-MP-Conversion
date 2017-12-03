@@ -1,0 +1,153 @@
+2129 = {
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=392
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=783
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=127
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=20
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=22
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=164
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=18071
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=392
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=783
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=127
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=20
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=22
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=164
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=18071
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=392
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=783
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=127
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=20
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=22
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=164
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=18071
+	}
+
+}

@@ -1,0 +1,9 @@
+owner=BYZ
+controller=BYZ
+add_core=SRV
+add_core=PER
+add_core=GEO
+add_core=BYZ
+add_core=AZB
+trade_goods = grain
+life_rating = 35

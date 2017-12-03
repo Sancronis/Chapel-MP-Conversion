@@ -1,0 +1,200 @@
+2241 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=2634
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=428
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=112
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=553
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=57926
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=583
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2482
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=403
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=105
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=50
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=521
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=24990
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=1317
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=2634
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=428
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=112
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=553
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=60742
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=583
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size=2482
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size=403
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=105
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=50
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size=521
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size=24990
+	}
+
+}

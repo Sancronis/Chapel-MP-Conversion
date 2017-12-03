@@ -1,0 +1,140 @@
+#Sphere of Influence
+
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	DMS=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=-97
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=5
+		level=2
+	}
+	MNG=
+	{
+		value=177
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	SHY=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SWA=
+	{
+		value=0
+		level=2
+	}
+	TIB=
+	{
+		value=0
+		level=2
+	}
+	TUN=
+	{
+		value=-21
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X10=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1391
+	regiment = {
+		name="1st Kota Bahru Infantry"
+		type=infantry
+		home=1391
+	}
+	regiment = {
+		name="1st Kota Bahru Cavalry"
+		type=cavalry
+		home=1391
+	}
+	regiment = {
+		name="1st Kota Bahru Artillery"
+		type=artillery
+		home=1391
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1391
+	ship = {
+		name="1st Kota Bahru Clipper Transport"
+		type=clipper_transport
+	}
+}
+

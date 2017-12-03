@@ -1,0 +1,7 @@
+owner=PER
+controller=PER
+add_core=DLH
+add_core=AFG
+add_core=PER
+trade_goods = silk
+life_rating = 32

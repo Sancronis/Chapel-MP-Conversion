@@ -1,0 +1,7 @@
+owner=DMS
+controller=DMS
+add_core=MEX
+add_core=DMS
+trade_goods = timber
+life_rating = 30
+naval_base = 1

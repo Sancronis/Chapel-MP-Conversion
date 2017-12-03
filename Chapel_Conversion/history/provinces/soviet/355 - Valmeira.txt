@@ -1,0 +1,9 @@
+owner=DEN
+controller=DEN
+add_core=DEN
+add_core=EST
+add_core=X13
+add_core=UBD
+add_core=LAT
+trade_goods = cattle
+life_rating = 35

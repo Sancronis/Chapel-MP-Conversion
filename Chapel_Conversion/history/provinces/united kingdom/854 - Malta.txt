@@ -1,0 +1,9 @@
+owner=ENG
+controller=ENG
+add_core=SII
+add_core=ITA
+add_core=ENG
+add_core=MLT
+trade_goods = fish
+life_rating = 35
+naval_base = 1

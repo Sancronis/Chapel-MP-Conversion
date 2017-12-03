@@ -1,0 +1,7 @@
+owner=ENG
+controller=ENG
+add_core=HOB
+add_core=ENG
+trade_goods = cattle
+life_rating = 15
+naval_base = 1

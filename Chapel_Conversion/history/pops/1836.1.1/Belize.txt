@@ -1,0 +1,51 @@
+2190 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=201832
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4094
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=8187
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1330
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=368
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=225
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1719
+	}
+
+}

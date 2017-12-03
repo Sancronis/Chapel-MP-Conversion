@@ -1,0 +1,221 @@
+1773 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size=15
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=900
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = sunni
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = sunni
+		size=50
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = sunni
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = sunni
+		size=1800
+	}
+
+}
+1774 = {
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size=200
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size=798
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size=130
+	}
+
+	bureaucrats=
+	{
+		culture = maures
+		religion = sunni
+		size=36
+	}
+
+	officers=
+	{
+		culture = maures
+		religion = sunni
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size=168
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size=18610
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = catholic
+		size=15
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = catholic
+		size=461
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = catholic
+		size=75
+	}
+
+	bureaucrats=
+	{
+		culture = maures
+		religion = catholic
+		size=21
+	}
+
+	officers=
+	{
+		culture = maures
+		religion = catholic
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = maures
+		religion = catholic
+		size=97
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = catholic
+		size=869
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=59
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=637
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=103
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=29
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=134
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=4963
+	}
+
+}

@@ -1,0 +1,152 @@
+alliance=
+{
+	first="BYZ"
+	second="MLW"
+	start_date="1764.9.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BYZ"
+	second="SPA"
+	start_date="1773.12.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DMS"
+	second="CUA"
+	start_date="1561.3.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DMS"
+	second="PLC"
+	start_date="1618.8.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DMS"
+	second="INC"
+	start_date="1741.8.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DMS"
+	second="SPA"
+	start_date="1757.9.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PLC"
+	second="ENG"
+	start_date="1739.6.22"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PLC"
+	second="SPA"
+	start_date="1758.7.12"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ITA"
+	second="MNG"
+	start_date="1772.8.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PER"
+	second="PLC"
+	start_date="1724.5.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PER"
+	second="ITA"
+	start_date="1765.6.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PER"
+	second="ENG"
+	start_date="1770.9.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="INC"
+	second="CUA"
+	start_date="1507.7.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SWA"
+	second="FRA"
+	start_date="1724.12.12"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SIA"
+	second="MLW"
+	start_date="1664.5.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MYR"
+	second="BUK"
+	start_date="1767.4.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BNG"
+	second="MLW"
+	start_date="1511.7.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CUA"
+	second="SPA"
+	start_date="1740.8.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X04"
+	second="X02"
+	start_date="1709.10.17"
+	end_date="1936.1.1"
+}
+

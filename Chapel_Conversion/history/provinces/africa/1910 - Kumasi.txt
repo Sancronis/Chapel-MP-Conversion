@@ -1,0 +1,6 @@
+owner=ENG
+controller=ENG
+add_core=ASH
+add_core=ENG
+trade_goods = coffee
+life_rating = 15

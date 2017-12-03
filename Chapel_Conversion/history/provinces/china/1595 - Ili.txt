@@ -1,0 +1,7 @@
+owner=HMI
+controller=HMI
+add_core=CHG
+add_core=HMI
+add_core=XIN
+trade_goods = sulphur
+life_rating = 32

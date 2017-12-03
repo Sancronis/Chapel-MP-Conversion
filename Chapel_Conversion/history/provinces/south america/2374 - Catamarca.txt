@@ -1,0 +1,6 @@
+owner=CUA
+controller=CUA
+add_core=CUA
+add_core=NET
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,9 @@
+owner=PER
+controller=PER
+add_core=DLH
+add_core=PAN
+add_core=AFG
+add_core=PER
+add_core=HND
+trade_goods = cotton
+life_rating = 32

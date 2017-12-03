@@ -1,0 +1,6 @@
+owner=HMI
+controller=HMI
+add_core=KOR
+add_core=HMI
+trade_goods = coal
+life_rating = 35

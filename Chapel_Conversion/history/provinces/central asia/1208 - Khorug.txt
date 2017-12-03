@@ -1,0 +1,7 @@
+owner=TIB
+controller=TIB
+add_core=YRK
+add_core=TIB
+add_core=XIN
+trade_goods = cattle
+life_rating = 35

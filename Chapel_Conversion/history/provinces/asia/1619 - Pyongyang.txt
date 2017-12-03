@@ -1,0 +1,6 @@
+owner=DMS
+controller=DMS
+add_core=KOR
+add_core=DMS
+trade_goods = coal
+life_rating = 35

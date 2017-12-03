@@ -1,0 +1,24 @@
+guarantee=
+{
+	first="DEN"
+	second="CUA"
+	start_date="1773.10.17"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="DEN"
+	second="NET"
+	start_date="1775.12.8"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="PLC"
+	second="ROM"
+	start_date="1574.6.11"
+	end_date="1936.1.1"
+}
+

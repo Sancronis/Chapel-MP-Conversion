@@ -1,0 +1,219 @@
+#Sphere of Influence
+
+	ABB=
+	{
+		value=0
+		level=2
+	}
+	AJU=
+	{
+		value=0
+		level=2
+	}
+	AKH=
+	{
+		value=0
+		level=2
+	}
+	ALD=
+	{
+		value=-3
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BUK=
+	{
+		value=-4
+		level=2
+	}
+	BYZ=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DMS=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	FRM=
+	{
+		value=0
+		level=2
+	}
+	GEO=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=17
+		level=2
+	}
+	MLW=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MOR=
+	{
+		value=14
+		level=2
+	}
+	MYR=
+	{
+		value=-3
+		level=2
+	}
+	PER=
+	{
+		value=-3
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SWA=
+	{
+		value=78
+		level=3
+	}
+	SWI=
+	{
+		value=-1
+		level=2
+	}
+	TUN=
+	{
+		value=-10
+		level=2
+	}
+	URU=
+	{
+		value=-4
+		level=2
+	}
+	X01=
+	{
+		value=-3
+		level=2
+	}
+	X02=
+	{
+		value=-1
+		level=2
+	}
+	X03=
+	{
+		value=-2
+		level=2
+	}
+	X04=
+	{
+		value=-3
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=-1
+		level=2
+	}
+	X10=
+	{
+		value=-4
+		level=2
+	}
+	X11=
+	{
+		value=-11
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="3rd Army"
+	location=1871
+	regiment = {
+		name="1st Baidoa Infantry"
+		type=infantry
+		home=1869
+	}
+	regiment = {
+		name="1st Hobyo Cavalry"
+		type=cavalry
+		home=1871
+	}
+	regiment = {
+		name="1st Baidoa Artillery"
+		type=artillery
+		home=1869
+	}
+}
+
+navy = {
+	name="Fleet of Hobyo"
+	location=2900
+	ship = {
+		name="1st Hobyo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1871
+	ship = {
+		name="1st Hobyo Clipper Transport"
+		type=clipper_transport
+	}
+}
+

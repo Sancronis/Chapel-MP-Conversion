@@ -1,0 +1,6 @@
+owner=DMS
+controller=DMS
+add_core=DMS
+add_core=CHE
+trade_goods = tobacco
+life_rating = 35

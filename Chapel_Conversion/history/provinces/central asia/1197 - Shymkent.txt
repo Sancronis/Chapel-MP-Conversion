@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=CHG
+add_core=KZH
+add_core=BUK
+add_core=RUS
+trade_goods = grain
+life_rating = 35

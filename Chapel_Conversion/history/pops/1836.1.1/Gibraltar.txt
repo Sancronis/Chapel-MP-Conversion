@@ -1,0 +1,58 @@
+517 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = catholic
+		size=4260
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = catholic
+		size=4084
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = catholic
+		size=729
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = catholic
+		size=112
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = catholic
+		size=168
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = catholic
+		size=942
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = catholic
+		size=101399
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=400
+	}
+
+}

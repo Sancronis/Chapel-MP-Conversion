@@ -1,0 +1,399 @@
+#Sphere of Influence
+
+	BNG=
+	{
+		value=-62
+		level=2
+	}
+	DAI=
+	{
+		value=-10
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DMS=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=5
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	HMI=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	MLC=
+	{
+		value=0
+		level=2
+	}
+	MLW=
+	{
+		value=0
+		level=3
+	}
+	MNG=
+	{
+		value=119
+		level=3
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	ROM=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SHY=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	TIB=
+	{
+		value=-90
+		level=2
+	}
+	URU=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="8th Army"
+	location=1364
+	regiment = {
+		name="1st Ratchaburi Infantry"
+		type=infantry
+		home=1353
+	}
+	regiment = {
+		name="1st Moulmein Infantry"
+		type=infantry
+		home=1343
+	}
+	regiment = {
+		name="1st Bangkok Infantry"
+		type=infantry
+		home=1346
+	}
+	regiment = {
+		name="1st Lopburi Infantry"
+		type=infantry
+		home=1347
+	}
+	regiment = {
+		name="2nd Ratchaburi Infantry"
+		type=infantry
+		home=1353
+	}
+	regiment = {
+		name="3rd Ratchaburi Infantry"
+		type=infantry
+		home=1353
+	}
+	regiment = {
+		name="4th Ratchaburi Infantry"
+		type=infantry
+		home=1353
+	}
+	regiment = {
+		name="1st Bangkok Artillery"
+		type=artillery
+		home=1346
+	}
+	regiment = {
+		name="1st Chanthaburi Artillery"
+		type=artillery
+		home=1365
+	}
+	regiment = {
+		name="1st Moulmein Artillery"
+		type=artillery
+		home=1343
+	}
+	regiment = {
+		name="1st Ratchaburi Cavalry"
+		type=cavalry
+		home=1353
+	}
+	regiment = {
+		name="2nd Bangkok Artillery"
+		type=artillery
+		home=1346
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1367
+	regiment = {
+		name="1st Saigon Infantry"
+		type=infantry
+		home=1380
+	}
+	regiment = {
+		name="5th Ratchaburi Infantry"
+		type=infantry
+		home=1353
+	}
+	regiment = {
+		name="2nd Lopburi Infantry"
+		type=infantry
+		home=1347
+	}
+	regiment = {
+		name="6th Ratchaburi Infantry"
+		type=infantry
+		home=1353
+	}
+	regiment = {
+		name="2nd Moulmein Artillery"
+		type=artillery
+		home=1343
+	}
+	regiment = {
+		name="1st Ratchaburi Artillery"
+		type=artillery
+		home=1353
+	}
+	regiment = {
+		name="1st Nakhon Sawan Infantry"
+		type=infantry
+		home=1348
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2819
+	ship = {
+		name="2nd Chanthaburi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Saigon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Moulmein Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2828
+	ship = {
+		name="2nd Nakhon Si Thammarat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Moulmein Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2826
+	ship = {
+		name="1st Hue Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2815
+	ship = {
+		name="2nd Hatien Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2800
+	ship = {
+		name="1st Bangkok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bangkok Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2823
+	ship = {
+		name="3rd Bangkok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Saigon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bangkok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Prachinburi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tourane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Moulmein Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kampot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Saigon Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=1346
+	ship = {
+		name="3rd Mergui Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kampot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Moulmein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saigon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Qui Nhon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chanthaburi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Bangkok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Saigon Clipper Transport"
+		type=clipper_transport
+	}
+}
+

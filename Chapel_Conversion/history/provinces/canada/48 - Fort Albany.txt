@@ -1,0 +1,7 @@
+owner=DMS
+controller=DMS
+add_core=ARP
+add_core=X08
+add_core=DMS
+trade_goods = fish
+life_rating = 35

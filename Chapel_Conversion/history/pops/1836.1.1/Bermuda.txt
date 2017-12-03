@@ -1,0 +1,51 @@
+203 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=829
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=1659
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=270
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=41
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=348
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=38278
+	}
+
+}

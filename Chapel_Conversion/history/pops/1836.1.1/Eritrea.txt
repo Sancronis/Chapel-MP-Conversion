@@ -1,0 +1,400 @@
+1849 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = sunni
+		size=2943
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = sunni
+		size=5887
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = sunni
+		size=1060
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = sunni
+		size=74
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = sunni
+		size=118
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = sunni
+		size=1236
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = sunni
+		size=135853
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = shiite
+		size=1126
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = shiite
+		size=5195
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = shiite
+		size=935
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = shiite
+		size=65
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = shiite
+		size=104
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = shiite
+		size=1091
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = shiite
+		size=47777
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = afar
+		religion = sunni
+		size=2543
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = sunni
+		size=5086
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = sunni
+		size=915
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = sunni
+		size=64
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = sunni
+		size=102
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = sunni
+		size=1068
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = sunni
+		size=117373
+	}
+
+	soldiers=
+	{
+		culture = afar
+		religion = shiite
+		size=973
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = shiite
+		size=4488
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = shiite
+		size=808
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = shiite
+		size=56
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = shiite
+		size=90
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = shiite
+		size=943
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = shiite
+		size=41277
+	}
+
+}
+1848 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = sunni
+		size=637
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = sunni
+		size=1274
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = sunni
+		size=229
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = sunni
+		size=16
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = sunni
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = sunni
+		size=268
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = sunni
+		size=29413
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = shiite
+		size=242
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = shiite
+		size=1122
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = shiite
+		size=202
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = shiite
+		size=14
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = shiite
+		size=22
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = shiite
+		size=236
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = shiite
+		size=10270
+	}
+
+}
+1850 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size=262
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size=524
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size=94
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size=7
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size=110
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size=12091
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = shiite
+		size=887
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = shiite
+		size=2035
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = shiite
+		size=366
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = shiite
+		size=25
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = shiite
+		size=41
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = shiite
+		size=427
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = shiite
+		size=40556
+	}
+
+}

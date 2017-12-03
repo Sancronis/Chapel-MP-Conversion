@@ -1,0 +1,7 @@
+owner=ENG
+controller=ENG
+add_core=MLC
+add_core=ENG
+add_core=MSA
+trade_goods = timber
+life_rating = 30

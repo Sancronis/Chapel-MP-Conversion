@@ -1,0 +1,302 @@
+#Sphere of Influence
+
+	ABB=
+	{
+		value=0
+		level=2
+	}
+	CUA=
+	{
+		value=111
+		level=3
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DMS=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MOR=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	ROM=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	TUN=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=-70
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="15th Army"
+	location=2314
+	regiment = {
+		name="1st Cajamarca Infantry"
+		type=infantry
+		home=2290
+	}
+	regiment = {
+		name="1st Piura Infantry"
+		type=infantry
+		home=2291
+	}
+	regiment = {
+		name="1st Pucallpa Cavalry"
+		type=cavalry
+		home=2300
+	}
+	regiment = {
+		name="1st Arica Artillery"
+		type=artillery
+		home=2308
+	}
+	regiment = {
+		name="2nd Arica Artillery"
+		type=artillery
+		home=2308
+	}
+	regiment = {
+		name="1st Trujillo Infantry"
+		type=infantry
+		home=2292
+	}
+	regiment = {
+		name="1st Iquique Artillery"
+		type=artillery
+		home=2307
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2323
+	regiment = {
+		name="1st Lima Infantry"
+		type=infantry
+		home=2295
+	}
+	regiment = {
+		name="1st Ayacucho Cavalry"
+		type=cavalry
+		home=2299
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2333
+	regiment = {
+		name="1st Arica Infantry"
+		type=infantry
+		home=2308
+	}
+	regiment = {
+		name="2nd Piura Infantry"
+		type=infantry
+		home=2291
+	}
+	regiment = {
+		name="1st Ica Infantry"
+		type=infantry
+		home=2297
+	}
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+	regiment = {
+		name="1st Tacna Artillery"
+		type=artillery
+		home=2578
+	}
+	regiment = {
+		name="3rd Piura Infantry"
+		type=infantry
+		home=2291
+	}
+	regiment = {
+		name="1st Ica Cavalry"
+		type=cavalry
+		home=2297
+	}
+	regiment = {
+		name="1st Cochabamba Artillery"
+		type=artillery
+		home=2311
+	}
+}
+
+army = {
+	name="26th Army"
+	location=2310
+	regiment = {
+		name="1st Ayacucho Infantry"
+		type=infantry
+		home=2299
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=3000
+	ship = {
+		name="1st Punta Arenas Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=3000
+	ship = {
+		name="1st Lima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Huaraz Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2996
+	ship = {
+		name="3rd Ica Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2993
+	ship = {
+		name="1st Tacna Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2308
+	ship = {
+		name="1st Huaraz Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2297
+	ship = {
+		name="2nd Huaraz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Iquique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Iquique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Valparaíso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cauquenes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cauquenes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Punta Arenas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Valparaíso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Punta Arenas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cauquenes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Iquique Clipper Transport"
+		type=clipper_transport
+	}
+}
+

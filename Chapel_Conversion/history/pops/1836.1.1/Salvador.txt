@@ -1,0 +1,102 @@
+2191 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=293
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=587
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=95
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=25
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=123
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=13533
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=293
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=587
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=95
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=25
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=123
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=13533
+	}
+
+}

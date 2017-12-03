@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=1306
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=2611
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=424
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=65
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=72
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=548
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=60259
+	}
+
+}

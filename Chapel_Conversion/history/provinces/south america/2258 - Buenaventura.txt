@@ -1,0 +1,6 @@
+owner=DMS
+controller=DMS
+add_core=DMS
+trade_goods = fish
+life_rating = 30
+colonial=2

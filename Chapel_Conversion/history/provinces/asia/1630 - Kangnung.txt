@@ -1,0 +1,7 @@
+owner=DMS
+controller=DMS
+add_core=KOR
+add_core=DMS
+trade_goods = grain
+life_rating = 35
+naval_base = 1

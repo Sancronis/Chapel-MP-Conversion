@@ -1,0 +1,239 @@
+#Sphere of Influence
+
+	AJU=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BUK=
+	{
+		value=0
+		level=2
+	}
+	BYZ=
+	{
+		value=0
+		level=2
+	}
+	CHG=
+	{
+		value=-9
+		level=2
+	}
+	CUA=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DMS=
+	{
+		value=-8
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=-1
+		level=2
+	}
+	GEO=
+	{
+		value=0
+		level=2
+	}
+	HOB=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=-11
+		level=2
+	}
+	KOR=
+	{
+		value=-14
+		level=2
+	}
+	KUB=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MOR=
+	{
+		value=-2
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=176
+		level=2
+	}
+	SWA=
+	{
+		value=0
+		level=2
+	}
+	SWI=
+	{
+		value=-12
+		level=2
+	}
+	TUN=
+	{
+		value=0
+		level=2
+	}
+	URU=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X10=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=-15
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=2177
+	regiment = {
+		name="1st Rosarito Infantry"
+		type=infantry
+		home=2139
+	}
+	regiment = {
+		name="1st Tucson Artillery"
+		type=artillery
+		home=102
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2139
+	regiment = {
+		name="1st Guaymas Cavalry"
+		type=cavalry
+		home=2141
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2968
+	ship = {
+		name="1st Guaymas Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2139
+	ship = {
+		name="1st Guaymas Clipper Transport"
+		type=clipper_transport
+	}
+}
+

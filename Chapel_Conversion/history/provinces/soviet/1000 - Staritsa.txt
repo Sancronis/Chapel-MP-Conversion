@@ -1,0 +1,6 @@
+owner=DEN
+controller=DEN
+add_core=RUS
+add_core=DEN
+trade_goods = timber
+life_rating = 35

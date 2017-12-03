@@ -1,0 +1,328 @@
+#Sphere of Influence
+
+	ABB=
+	{
+		value=-4
+		level=2
+	}
+	AJU=
+	{
+		value=52
+		level=2
+	}
+	ALD=
+	{
+		value=-82
+		level=2
+	}
+	BUK=
+	{
+		value=0
+		level=2
+	}
+	BYZ=
+	{
+		value=0
+		level=2
+	}
+	CUA=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DMS=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=-28
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	HOB=
+	{
+		value=73
+		level=2
+	}
+	INC=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=8
+		level=2
+	}
+	KUB=
+	{
+		value=76
+		level=2
+	}
+	MLW=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	SHY=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SWA=
+	{
+		value=-20
+		level=2
+	}
+	SWI=
+	{
+		value=0
+		level=2
+	}
+	TUN=
+	{
+		value=-34
+		level=2
+	}
+	URU=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X10=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="5th Army"
+	location=1958
+	regiment = {
+		name="1st Katsina Artillery"
+		type=artillery
+		home=1947
+	}
+	regiment = {
+		name="1st Sokoto Cavalry"
+		type=cavalry
+		home=1948
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1803
+	regiment = {
+		name="1st Katsina Infantry"
+		type=infantry
+		home=1947
+	}
+	regiment = {
+		name="1st Sokoto Infantry"
+		type=infantry
+		home=1948
+	}
+	regiment = {
+		name="1st Sokoto Artillery"
+		type=artillery
+		home=1948
+	}
+	regiment = {
+		name="1st Tukari Infantry"
+		type=infantry
+		home=1937
+	}
+	regiment = {
+		name="2nd Maroua Infantry"
+		type=infantry
+		home=1964
+	}
+	regiment = {
+		name="1st Zinder Cavalry"
+		type=cavalry
+		home=1815
+	}
+	regiment = {
+		name="2nd Zinder Artillery"
+		type=artillery
+		home=1815
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1862
+	regiment = {
+		name="1st Bamenda Infantry"
+		type=infantry
+		home=1961
+	}
+	regiment = {
+		name="1st Yola Infantry"
+		type=infantry
+		home=1950
+	}
+	regiment = {
+		name="1st Bongor Infantry"
+		type=infantry
+		home=1820
+	}
+	regiment = {
+		name="2nd Bamenda Infantry"
+		type=infantry
+		home=1961
+	}
+	regiment = {
+		name="1st Zinder Artillery"
+		type=artillery
+		home=1815
+	}
+	regiment = {
+		name="1st Mbanza Artillery"
+		type=artillery
+		home=2001
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2002
+	regiment = {
+		name="1st Maroua Infantry"
+		type=infantry
+		home=1964
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2001
+	ship = {
+		name="1st Safi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Safi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Safi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Agadir Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2916
+	ship = {
+		name="1st Libreville Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bata Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Douala Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Calabar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Libreville Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Calabar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bata Frigate"
+		type=frigate
+	}
+}
+

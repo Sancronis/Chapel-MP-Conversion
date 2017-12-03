@@ -1,0 +1,303 @@
+#Sphere of Influence
+
+	BUK=
+	{
+		value=19
+		level=2
+	}
+	BYZ=
+	{
+		value=70
+		level=2
+	}
+	DAI=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DMS=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=-26
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	HMI=
+	{
+		value=67
+		level=2
+	}
+	ITA=
+	{
+		value=16
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	MLW=
+	{
+		value=122
+		level=3
+	}
+	MNG=
+	{
+		value=10
+		level=2
+	}
+	PER=
+	{
+		value=-15
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	ROM=
+	{
+		value=0
+		level=2
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=-94
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SWA=
+	{
+		value=0
+		level=2
+	}
+	SWI=
+	{
+		value=0
+		level=2
+	}
+	TIB=
+	{
+		value=76
+		level=2
+	}
+	URU=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="4th Army"
+	location=1397
+	regiment = {
+		name="1st Agartala Infantry"
+		type=infantry
+		home=2566
+	}
+	regiment = {
+		name="1st Chittagong Infantry"
+		type=infantry
+		home=1257
+	}
+	regiment = {
+		name="1st Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+	regiment = {
+		name="3rd Darjeeling Infantry"
+		type=infantry
+		home=1252
+	}
+	regiment = {
+		name="1st Simla Infantry"
+		type=infantry
+		home=1235
+	}
+	regiment = {
+		name="2nd Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1292
+	regiment = {
+		name="1st Ava Infantry"
+		type=infantry
+		home=1334
+	}
+	regiment = {
+		name="1st Darjeeling Infantry"
+		type=infantry
+		home=1252
+	}
+	regiment = {
+		name="1st Rajshahi Infantry"
+		type=infantry
+		home=1255
+	}
+	regiment = {
+		name="2nd Darjeeling Infantry"
+		type=infantry
+		home=1252
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1290
+	regiment = {
+		name="3rd Ava Infantry"
+		type=infantry
+		home=1334
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1288
+	regiment = {
+		name="2nd Agartala Infantry"
+		type=infantry
+		home=2566
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1267
+	regiment = {
+		name="1st Kyaukse Infantry"
+		type=infantry
+		home=1335
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1252
+	regiment = {
+		name="2nd Rajshahi Infantry"
+		type=infantry
+		home=1255
+	}
+	regiment = {
+		name="2nd Ava Infantry"
+		type=infantry
+		home=1334
+	}
+	regiment = {
+		name="3rd Rajshahi Infantry"
+		type=infantry
+		home=1255
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1261
+	ship = {
+		name="1st Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1261
+	ship = {
+		name="1st Cuttack Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1320
+	ship = {
+		name="1st Andaman Islands Clipper Transport"
+		type=clipper_transport
+	}
+}
+

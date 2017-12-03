@@ -1,0 +1,204 @@
+2186 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4529
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=13040
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=2119
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=587
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=359
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2738
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=203092
+	}
+
+}
+2187 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4649
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=13395
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=2177
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=603
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=368
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2813
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=208468
+	}
+
+}
+2188 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=5658
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=11316
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=3678
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=283
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=311
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2376
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=259281
+	}
+
+}
+2189 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=12148
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=8677
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1410
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=217
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=412
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=3644
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=190416
+	}
+
+}

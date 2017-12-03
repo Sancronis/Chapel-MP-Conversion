@@ -1,0 +1,7 @@
+owner=MLW
+controller=MLW
+add_core=GDW
+add_core=MLW
+add_core=HND
+trade_goods = dye
+life_rating = 32

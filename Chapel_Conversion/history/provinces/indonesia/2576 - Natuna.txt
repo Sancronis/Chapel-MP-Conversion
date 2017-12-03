@@ -1,0 +1,9 @@
+owner=ENG
+controller=ENG
+add_core=MLC
+add_core=KTI
+add_core=ENG
+trade_goods = fish
+life_rating = 30
+colonial=2
+naval_base = 1

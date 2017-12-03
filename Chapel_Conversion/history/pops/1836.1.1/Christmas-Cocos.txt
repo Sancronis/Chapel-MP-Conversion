@@ -1,0 +1,151 @@
+2244 = {
+	soldiers=
+	{
+		culture = malay
+		religion = sunni
+		size=1883
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = sunni
+		size=1982
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = sunni
+		size=322
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = sunni
+		size=50
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = sunni
+		size=74
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = sunni
+		size=416
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = sunni
+		size=44818
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = catholic
+		size=753
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = catholic
+		size=1784
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = catholic
+		size=290
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = catholic
+		size=45
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = catholic
+		size=67
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = catholic
+		size=375
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = catholic
+		size=16504
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=1102
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=2205
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=358
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=55
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=61
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=463
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=50874
+	}
+
+}

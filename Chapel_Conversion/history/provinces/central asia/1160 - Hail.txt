@@ -1,0 +1,7 @@
+owner=ROM
+controller=ROM
+add_core=SHM
+add_core=ROM
+add_core=ARA
+trade_goods = wool
+life_rating = 10

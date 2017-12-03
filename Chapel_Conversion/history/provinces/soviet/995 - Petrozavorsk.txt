@@ -1,0 +1,8 @@
+owner=DEN
+controller=DEN
+add_core=RUS
+add_core=DEN
+add_core=SCA
+add_core=FIN
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,51 @@
+2223 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=113001
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=6961
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=4972
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=895
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=211
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=199
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=1044
+	}
+
+}

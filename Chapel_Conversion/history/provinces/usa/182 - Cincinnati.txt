@@ -1,0 +1,4 @@
+owner=DMS
+controller=DMS
+trade_goods = grain
+life_rating = 35

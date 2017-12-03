@@ -1,0 +1,102 @@
+#Sphere of Influence
+
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	DMS=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=36
+		level=2
+	}
+	MNG=
+	{
+		value=182
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=-46
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	TIB=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=1579
+	regiment = {
+		name="1st Hai Phong Infantry"
+		type=infantry
+		home=1370
+	}
+	regiment = {
+		name="1st Cao Bang Infantry"
+		type=infantry
+		home=1371
+	}
+	regiment = {
+		name="1st Lang Son Cavalry"
+		type=cavalry
+		home=1373
+	}
+	regiment = {
+		name="1st Cao Bang Artillery"
+		type=artillery
+		home=1371
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2823
+	ship = {
+		name="1st Hai Phong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lang Son Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hai Phong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lang Son Frigate"
+		type=frigate
+	}
+}
+

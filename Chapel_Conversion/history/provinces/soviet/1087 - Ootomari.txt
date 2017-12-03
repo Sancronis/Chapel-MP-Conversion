@@ -1,0 +1,6 @@
+owner=MYR
+controller=MYR
+add_core=KOR
+add_core=ANU
+trade_goods = coal
+life_rating = 35

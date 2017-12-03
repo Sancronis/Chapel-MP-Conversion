@@ -1,0 +1,5 @@
+owner=DMS
+controller=DMS
+add_core=DMS
+trade_goods = cattle
+life_rating = 30

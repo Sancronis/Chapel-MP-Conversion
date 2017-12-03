@@ -1,0 +1,6 @@
+owner=DMS
+controller=DMS
+add_core=NET
+add_core=DMS
+trade_goods = cotton
+life_rating = 35

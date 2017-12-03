@@ -1,0 +1,8 @@
+owner=SPA
+controller=SPA
+add_core=JAP
+add_core=SPA
+trade_goods = coal
+life_rating = 20
+colonial=2
+naval_base = 1

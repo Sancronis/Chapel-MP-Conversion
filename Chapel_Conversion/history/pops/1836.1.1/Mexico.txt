@@ -1,0 +1,3185 @@
+2137 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=573
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=1145
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=186
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=49
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=31
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=240
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=26405
+	}
+
+}
+2140 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=573
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=1145
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=186
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=49
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=31
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=240
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=26405
+	}
+
+}
+2141 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=1159
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=2319
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=377
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=99
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=64
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=487
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=53465
+	}
+
+}
+2138 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=2633
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=5265
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=856
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=224
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=145
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=1106
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=121399
+	}
+
+}
+2139 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=4676
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=9353
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=1520
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=398
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=257
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=1964
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=215656
+	}
+
+}
+2142 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4820
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=3443
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=559
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=146
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=164
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=723
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=76213
+	}
+
+}
+2143 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=8884
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=6346
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1031
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=270
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=301
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1333
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=140479
+	}
+
+}
+2144 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4820
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=3443
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=559
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=146
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=164
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=723
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=76213
+	}
+
+}
+2145 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=7120
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=5086
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=826
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=216
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=242
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1068
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=112593
+	}
+
+}
+2147 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=666
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=1331
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=216
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=57
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=37
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=280
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=30694
+	}
+
+}
+2151 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=342
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=685
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=111
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=29
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=144
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=15788
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=157
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=657
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=107
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=28
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=138
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=6769
+	}
+
+}
+2152 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=709
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=1418
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=230
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=60
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=298
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=32687
+	}
+
+}
+2155 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=342
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=685
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=111
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=29
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=144
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=15788
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=157
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=657
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=107
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=28
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=138
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=6769
+	}
+
+}
+2146 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=366
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=732
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=119
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=31
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=154
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=16882
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=169
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=705
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=115
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=30
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=148
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=7280
+	}
+
+}
+2148 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=366
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=732
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=119
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=31
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=154
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=16882
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=169
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=705
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=115
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=30
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=148
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=7280
+	}
+
+}
+2149 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=623
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=1245
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=202
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=53
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=34
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=261
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=28707
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=297
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=1217
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=198
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=52
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=33
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=256
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=12809
+	}
+
+}
+2150 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=968
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=1936
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=315
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=82
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=407
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=44633
+	}
+
+}
+2153 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=366
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=732
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=119
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=31
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=154
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=16882
+	}
+
+}
+2154 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=366
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=732
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=119
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=31
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=154
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=16882
+	}
+
+}
+2156 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4068
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=8137
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1322
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=346
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=224
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1709
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=187617
+	}
+
+}
+2157 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=3286
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=6572
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1068
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=279
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=181
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1380
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=151545
+	}
+
+}
+2158 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=959
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=1918
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=312
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=82
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=403
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=44223
+	}
+
+}
+2160 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=12121
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=12541
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=2038
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=533
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=596
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2634
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=185989
+	}
+
+}
+2161 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=13333
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=9523
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1548
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=429
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=452
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2000
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=210802
+	}
+
+}
+2159 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=1980
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=3960
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=643
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=168
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=109
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=832
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = nahuatl
+		size=91298
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=896
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=3772
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=613
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=160
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=104
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=792
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=38456
+	}
+
+}
+2167 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=1331
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=216
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=57
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=37
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=280
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=30327
+	}
+
+}
+2173 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=2352
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=4705
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=765
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=118
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=129
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=988
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=108560
+	}
+
+}
+2162 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=3053
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=8837
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1436
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=398
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=243
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2784
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=135882
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=1030
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=2060
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=335
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=51
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=57
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=433
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=47528
+	}
+
+}
+2163 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=10333
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=1846
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=300
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=46
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=51
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=388
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=33180
+	}
+
+}
+2164 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=5825
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=11649
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1893
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=291
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=320
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2446
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=268804
+	}
+
+}
+2165 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=14851
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=10608
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1724
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=265
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=504
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=4455
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=232793
+	}
+
+}
+2166 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=10556
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=4589
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=746
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=207
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=310
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=964
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=97363
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=1284
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=2567
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=417
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=64
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=71
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=539
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=59242
+	}
+
+}
+2168 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=13333
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=9523
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1548
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=429
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=452
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2000
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=210802
+	}
+
+}
+2169 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4620
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=9240
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1501
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=416
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=254
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1940
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=213025
+	}
+
+}
+2170 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=1746
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=3492
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=567
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=87
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=96
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=733
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=80583
+	}
+
+}
+2171 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=5445
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=15750
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=2559
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=394
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=433
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=3308
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=244340
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=373
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=745
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=121
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=19
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=157
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=17201
+	}
+
+}
+2172 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=21906
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=43811
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=14239
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=1972
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=1205
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=9200
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=1002946
+	}
+
+}
+2174 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=10147
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=20294
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=6595
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=507
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=558
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=4262
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=464979
+	}
+
+}
+2175 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=3232
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=6463
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=2100
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=162
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=178
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=2714
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=146727
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1960
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=3919
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=637
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=176
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=108
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1646
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=89533
+	}
+
+}
+2176 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=23596
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=16855
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=5478
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1096
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=801
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=3539
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=370000
+	}
+
+}
+2177 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=16404
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=11717
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1904
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=527
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=557
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2461
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=259355
+	}
+
+}
+2178 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4431
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=8863
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1440
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=222
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=244
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=3722
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=202642
+	}
+
+}
+2179 = {
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=693
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=1385
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=225
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=35
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=38
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=291
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=31962
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=3577
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=7153
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1162
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=179
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=197
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2253
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=164305
+	}
+
+}
+2180 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=14216
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=10154
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1650
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=254
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=482
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2132
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=224967
+	}
+
+}
+2181 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=9985
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=7132
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1159
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=178
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=339
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1498
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=158014
+	}
+
+}
+2182 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=5204
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=10407
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=1691
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=260
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=286
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2186
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=240150
+	}
+
+}
+2183 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size=2530
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size=5060
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size=822
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size=177
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size=139
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size=1063
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size=116716
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=1250
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=5029
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=817
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=176
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=138
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=1056
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=54011
+	}
+
+}
+2184 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size=2987
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size=5974
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size=971
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size=149
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size=164
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size=2509
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size=136586
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=1482
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=5950
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=967
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=149
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=164
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=2499
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=62872
+	}
+
+}
+2185 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size=1969
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size=3937
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size=640
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size=138
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size=108
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size=827
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size=90808
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=979
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=3927
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=638
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=137
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=108
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=825
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size=42353
+	}
+
+}

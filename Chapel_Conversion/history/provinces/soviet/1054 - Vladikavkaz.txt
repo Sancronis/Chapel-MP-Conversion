@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=CIR
+add_core=AKH
+add_core=GEO
+add_core=BYZ
+trade_goods = wool
+life_rating = 35

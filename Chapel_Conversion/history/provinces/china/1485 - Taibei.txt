@@ -1,0 +1,9 @@
+owner=DMS
+controller=DMS
+add_core=JAP
+add_core=OTM
+add_core=DMS
+trade_goods = tea
+life_rating = 32
+colonial=2
+naval_base = 1

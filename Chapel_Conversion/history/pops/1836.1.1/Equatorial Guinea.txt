@@ -1,0 +1,221 @@
+1955 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=60506
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=1551
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=6205
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=1008
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=279
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=124
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=1303
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=84140
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=4386
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = catholic
+		size=112
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = catholic
+		size=3552
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = catholic
+		size=577
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = catholic
+		size=160
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = catholic
+		size=71
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = catholic
+		size=746
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = catholic
+		size=1642
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=16790
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=430
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=4824
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=784
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=217
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=96
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=1013
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=18891
+	}
+
+}
+1973 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=199
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=399
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=65
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=12
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=84
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=9199
+	}
+
+}

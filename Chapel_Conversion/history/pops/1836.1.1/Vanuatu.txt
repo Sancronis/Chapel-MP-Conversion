@@ -1,0 +1,100 @@
+2535 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=125
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=498
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=81
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=22
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=105
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=11613
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=62
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=496
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=81
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=22
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=104
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=5390
+	}
+
+}

@@ -1,0 +1,353 @@
+849 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=1394
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size=2789
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size=453
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=70
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=77
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=586
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=64350
+	}
+
+}
+850 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=1394
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size=2789
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size=453
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=70
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=77
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=586
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=64350
+	}
+
+}
+851 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size=6405
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size=1041
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=160
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=176
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=1345
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=146872
+	}
+
+}
+852 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=1205
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size=2410
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size=392
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=60
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=66
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=506
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=55614
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=374
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=1952
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=317
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=49
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=410
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=15522
+	}
+
+}
+853 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=1205
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size=2410
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size=392
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=60
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=66
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size=506
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size=55614
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=374
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=1952
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=317
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=49
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=410
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=15522
+	}
+
+}

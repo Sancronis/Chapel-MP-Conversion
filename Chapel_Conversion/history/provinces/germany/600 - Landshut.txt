@@ -1,0 +1,9 @@
+owner=PLC
+controller=PLC
+add_core=BAV
+add_core=FRA
+add_core=PLC
+add_core=SGF
+add_core=GER
+trade_goods = cattle
+life_rating = 40

@@ -1,0 +1,7 @@
+owner=ENG
+controller=ENG
+add_core=SPA
+add_core=ENG
+trade_goods = coffee
+life_rating = 15
+colonial=2

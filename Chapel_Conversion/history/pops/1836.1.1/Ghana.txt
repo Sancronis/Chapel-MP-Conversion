@@ -1,0 +1,634 @@
+1907 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=2708
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size=298
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size=596
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size=97
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = catholic
+		size=15
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = catholic
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size=167
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size=11000
+	}
+
+}
+1908 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=5793
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size=695
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size=1390
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size=226
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = catholic
+		size=35
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = catholic
+		size=38
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size=389
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size=26195
+	}
+
+}
+1909 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=6405
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size=705
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size=1409
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size=229
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = catholic
+		size=35
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = catholic
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size=345
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size=26063
+	}
+
+}
+1910 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=9769
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size=1526
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size=3051
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size=496
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = catholic
+		size=76
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = catholic
+		size=84
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size=748
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size=60528
+	}
+
+}
+1911 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=12089
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size=1214
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size=5751
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size=415
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size=160
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size=77
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size=537
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size=43661
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=6014
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size=604
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size=5737
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size=414
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = catholic
+		size=159
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = catholic
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size=535
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size=18253
+	}
+
+}
+1912 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=4971
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size=1856
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size=2652
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size=431
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = catholic
+		size=113
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = catholic
+		size=106
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size=557
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size=55605
+	}
+
+}
+1913 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=7627
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = catholic
+		size=725
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = catholic
+		size=1525
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = catholic
+		size=248
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = catholic
+		size=65
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = catholic
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = catholic
+		size=320
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = catholic
+		size=27579
+	}
+
+}
+1915 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=14910
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size=1214
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size=5751
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size=415
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size=160
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size=77
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size=537
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size=40840
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=7418
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size=604
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size=5737
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size=414
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = catholic
+		size=159
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = catholic
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size=535
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size=16849
+	}
+
+}
+1916 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=8474
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = catholic
+		size=725
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = catholic
+		size=1525
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = catholic
+		size=248
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = catholic
+		size=65
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = catholic
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = catholic
+		size=320
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = catholic
+		size=26732
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=DMS
+controller=DMS
+add_core=JAP
+add_core=KOR
+add_core=HSK
+add_core=DMS
+trade_goods = tea
+life_rating = 35
