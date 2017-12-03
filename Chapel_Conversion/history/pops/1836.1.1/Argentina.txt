@@ -1,49 +1,49 @@
 2348 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=2064
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=8257
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=2684
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=289
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=165
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=2312
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=190656
 	}
@@ -52,49 +52,49 @@
 2349 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=2064
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=8257
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=2684
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=289
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=165
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=2312
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=190656
 	}
@@ -152,49 +152,49 @@
 
 	soldiers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=343
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=3226
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=524
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=81
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=65
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=677
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=29383
 	}
@@ -203,49 +203,49 @@
 2351 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=752
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=3008
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=489
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=75
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=60
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=632
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=70187
 	}
@@ -254,49 +254,49 @@
 2352 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=752
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=3008
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=489
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=75
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=60
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=632
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=70187
 	}
@@ -354,49 +354,49 @@
 
 	soldiers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=344
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=3023
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=491
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=76
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=60
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=635
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=29760
 	}
@@ -405,98 +405,98 @@
 2354 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=840
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=3361
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=546
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=84
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=67
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=706
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=78419
 	}
 
 	soldiers=
 	{
-		culture = araucanian
+		culture = patagonian
 		religion = animist
 		size=296
 	}
 
 	artisans=
 	{
-		culture = araucanian
+		culture = patagonian
 		religion = animist
 		size=2865
 	}
 
 	clergymen=
 	{
-		culture = araucanian
+		culture = patagonian
 		religion = animist
 		size=466
 	}
 
 	bureaucrats=
 	{
-		culture = araucanian
+		culture = patagonian
 		religion = animist
 		size=72
 	}
 
 	officers=
 	{
-		culture = araucanian
+		culture = patagonian
 		religion = animist
 		size=57
 	}
 
 	aristocrats=
 	{
-		culture = araucanian
+		culture = patagonian
 		religion = animist
 		size=602
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = patagonian
 		religion = animist
 		size=25260
 	}
@@ -1011,49 +1011,49 @@
 2363 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=1143
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=4573
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=743
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=114
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=91
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=960
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=106693
 	}
@@ -1062,7 +1062,7 @@
 2364 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size=504
 	}
@@ -3967,49 +3967,49 @@
 2392 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = araucanian
 		religion = animist
 		size=7233
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = araucanian
 		religion = animist
 		size=41001
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = araucanian
 		religion = animist
 		size=5922
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = araucanian
 		religion = animist
 		size=1002
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = araucanian
 		religion = animist
 		size=364
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = araucanian
 		religion = animist
 		size=3827
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = araucanian
 		religion = animist
 		size=396216
 	}
