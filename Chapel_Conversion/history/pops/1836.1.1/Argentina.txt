@@ -1062,98 +1062,98 @@
 2364 = {
 	soldiers=
 	{
-		culture = patagonian
+		culture = chacoan
 		religion = animist
 		size=504
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=2014
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=327
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=50
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=40
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=423
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=46993
 	}
 
 	soldiers=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=247
 	}
 
 	artisans=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=1994
 	}
 
 	clergymen=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=324
 	}
 
 	bureaucrats=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=50
 	}
 
 	officers=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=40
 	}
 
 	aristocrats=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=419
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=21598
 	}
@@ -1211,91 +1211,91 @@
 
 	soldiers=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=13
 	}
 
 	artisans=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=1132
 	}
 
 	clergymen=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=184
 	}
 
 	bureaucrats=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=28
 	}
 
 	officers=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=23
 	}
 
 	aristocrats=
 	{
-		culture = guarani
+		culture = chacoan
 		religion = animist
 		size=238
 	}
 
 	soldiers=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=205
 	}
 
 	artisans=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=1897
 	}
 
 	clergymen=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=308
 	}
 
 	bureaucrats=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=47
 	}
 
 	officers=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=38
 	}
 
 	aristocrats=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=398
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = chacoan
 		religion = animist
 		size=17586
 	}
